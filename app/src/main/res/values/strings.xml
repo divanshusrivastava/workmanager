@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="one_time_work">One Time Work</string>
+    <string name="periodic_work">Periodic Work</string>
+    <string name="one_time_work_with_retry">One Time Work with retry</string>
+    <string name="cancel_all_work">Cancel All Work</string>
+    <string name="chain_of_works">Chain of Works</string>
+</resources>
